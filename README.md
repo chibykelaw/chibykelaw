@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chibykelaw
-- 👀 I’m interested in data science, machine learning and engineering
-- 🌱 I’m currently learning cloud computing, financial modeling and visualization
+- 👋 Hi, I’m Chibuike Orji-Oko, @chibykelaw
+- 👀 I’m interested in data science, machine learning, and research.
+- 🌱 I’m currently learning data analysis, cloud computing, and data engineering.
 - 💞️ I’m looking to collaborate on data analytic and data science projects
 - 📫 How to reach me orjichibyk@gmail.com, linkedin.com/in/chibuike-orji-oko
 
