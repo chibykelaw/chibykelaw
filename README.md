@@ -23,7 +23,7 @@ I am Chibuike Orji-Oko, a Data Scientist from Nigeria. I'm a mechanical engineer
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/chibuike-orji-oko/) & [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](orjichibyk@gmail.com) chibuikelawrence44@gmail.com
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chibuike-orji-oko/) & [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](orjichibyk@gmail.com) chibuikelawrence44@gmail.com
 </h1>
 
 <h1>
@@ -73,7 +73,7 @@ I am Chibuike Orji-Oko, a Data Scientist from Nigeria. I'm a mechanical engineer
  ---
  
 <div>  
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=chibykelaw&style=flat-square&color=blue" alt=""/>
 </div>
   
 <h1>
