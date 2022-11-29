@@ -7,7 +7,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I am Chibuike Orji-Oko, a Data Scientist from Nigeria. I'm a mechanical engineer turned data analyst who loves learning new things, data-driven research, and being able to tell people what to do based on data.
+I am Chibuike Orji-Oko, a Data Scientist from Nigeria. I'm a mechanical engineer turned data analyst who loves learning new things, data-driven research, and being able to tell people what to do based on data. A data Scientist skilled in gathering, cleaning, analyzing, and visualizing data for use by technical and non-technical personnel. I love to combine my passion for learning and research with my data science skills to build solutions, better services and products.
 
 <h1>
 
