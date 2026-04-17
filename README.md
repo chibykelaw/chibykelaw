@@ -64,7 +64,7 @@ I am particularly interested in predictive modelling, risk identification, and a
   <a href="https://twitter.com/orjibyk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- </h1>
+</h1>
 
 <h1>
 
