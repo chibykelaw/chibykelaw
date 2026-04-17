@@ -4,8 +4,7 @@
 </div>
 
 <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Data Scientist | Machine Learning | Healthcare Analytics
 </h1>
 Data Scientist (MSc) specialising in machine learning, data quality, and analytics. Experienced in Python and SQL, with a focus on building reproducible, interpretable models that drive actionable insights. Background in healthcare analytics within the NHS.
 
