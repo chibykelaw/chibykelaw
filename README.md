@@ -63,6 +63,16 @@ I am particularly interested in predictive modelling, risk identification, and a
 
 <h1>
 
+### :writing_hand: Blog Posts :
+- How to automate business processes with AI: https://todayafrica.co/how-to-automate-business-processes-with-ai/
+- How AI impacts process automation within organizations: https://todayafrica.co/how-ai-impacts-process-automation-within-organizations/
+- How AI and algorithms could shape Nigeria’s 2027 general elections: https://todayafrica.co/how-algorithms-may-shape-nigerias-2027-general-elections/
+- https://todayafrica.co/author/chibuike-orji-oko/
+  
+</h1>
+
+<h1>
+
 ### :fire: My Stats :
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chibykelaw&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -75,16 +85,6 @@ I am particularly interested in predictive modelling, risk identification, and a
 <div>  
   <img src="https://komarev.com/ghpvc/?username=chibykelaw&style=flat-square&color=blue" alt=""/>
 </div>
-  
-<h1>
-
-### :writing_hand: Blog Posts :
-- How to automate business processes with AI: https://todayafrica.co/how-to-automate-business-processes-with-ai/
-- How AI impacts process automation within organizations: https://todayafrica.co/how-ai-impacts-process-automation-within-organizations/
-- How AI and algorithms could shape Nigeria’s 2027 general elections: https://todayafrica.co/how-algorithms-may-shape-nigerias-2027-general-elections/
-- https://todayafrica.co/author/chibuike-orji-oko/
-  
-</h1>
   
 <!---
 chibykelaw/chibykelaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
