@@ -30,17 +30,6 @@ I am particularly interested in predictive modelling, risk identification, and a
 </h1>
 
 <h1>
-
-### 🌐: Connect:
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/chibuike-orji-oko/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/orjibyk">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
- </h1>
  
 <h1>
 
@@ -66,6 +55,17 @@ I am particularly interested in predictive modelling, risk identification, and a
 - https://todayafrica.co/author/chibuike-orji-oko/
   
 </h1>
+
+### 🌐: Connect:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/chibuike-orji-oko/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/orjibyk">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ </h1>
 
 <h1>
 
