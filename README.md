@@ -10,7 +10,7 @@ Data Scientist (MSc) specialising in machine learning, data quality, and analyti
 
 <h1>
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I am a Data Scientist with professional experience in healthcare analytics within the NHS, specialising in data quality, machine learning and analytical problem-solving.
 
@@ -21,6 +21,12 @@ I am particularly interested in predictive modelling, risk identification, and a
 </h1>
 
 <h1>
+
+### 📊 Featured Work:
+
+- Childhood Mental Health Prediction — Machine learning model using CatBoost, Random Forest, and SHAP for interpretable healthcare risk prediction
+- NHS Data Quality Automation — SQL-based validation and Power Automate workflows to detect and correct patient data inconsistencies
+- Sentiment Analysis Pipeline — End-to-end NLP workflow with model evaluation and structured deployment
   
 ### 🌐: Connect:
 
