@@ -27,7 +27,10 @@ I am particularly interested in predictive modelling, risk identification, and a
 - Childhood Mental Health Prediction — Machine learning model using CatBoost, Random Forest, and SHAP for interpretable healthcare risk prediction
 - NHS Data Quality Automation — SQL-based validation and Power Automate workflows to detect and correct patient data inconsistencies
 - Sentiment Analysis Pipeline — End-to-end NLP workflow with model evaluation and structured deployment
-  
+</h1>
+
+<h1>
+
 ### 🌐: Connect:
 
 <div id="badges">
