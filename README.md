@@ -7,7 +7,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-I'm a mechanical engineer-turned data analyst who loves learning new things and conducting data-driven research. A data Scientist skilled in gathering, cleaning, analyzing, and visualizing data for use by technical and non-technical personnel. I love to combine my passion for learning and research with my data science skills to build solutions, better services, and products. MSc Data Science & Artificial Intelligence, United Kingdom. 
+Data Scientist (MSc) specialising in machine learning, data quality, and analytics. Experienced in Python and SQL, with a focus on building reproducible, interpretable models that drive actionable insights. Background in healthcare analytics within the NHS.
 
 <h1>
 
@@ -15,9 +15,7 @@ I'm a mechanical engineer-turned data analyst who loves learning new things and 
 
 - :telescope: I’m working as a Data Analyst and an MSc Data Science & Artificial Intelligence graduate (UK).
 
-- 🌱 I’m currently learning data engineering, software engineering, and web3.
-
-- 💞️ I’m looking to collaborate on data analytic and data science projects
+- 💞️ I’m looking to collaborate on data analytics and data science projects
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
@@ -49,9 +47,6 @@ I'm a mechanical engineer-turned data analyst who loves learning new things and 
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Gcloud" alt="Gcloud" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas"  alt="Pandas" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
