@@ -28,8 +28,6 @@ I am particularly interested in predictive modelling, risk identification, and a
 - NHS Data Quality Automation — Designed SQL-based validation frameworks and automated workflows to detect and correct patient data inconsistencies
 - Sentiment Analysis Pipeline — Built an end-to-end NLP pipeline with structured model evaluation and deployment-ready workflow
 </h1>
-
-<h1>
  
 <h1>
 
@@ -56,6 +54,7 @@ I am particularly interested in predictive modelling, risk identification, and a
   
 </h1>
 
+<h1>
 ### 🌐: Connect:
 
 <div id="badges">
