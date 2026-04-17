@@ -12,12 +12,12 @@ Data Scientist (MSc) specialising in machine learning, data quality, and analyti
 
 ### :man_technologist: About Me :
 
-- :telescope: I am a Data Scientist with professional experience in healthcare analytics within the NHS, specialising in data quality, machine learning and analytical problem-solving.
+I am a Data Scientist with professional experience in healthcare analytics within the NHS, specialising in data quality, machine learning and analytical problem-solving.
 
 I work with large-scale clinical datasets, developing SQL-based validation logic and analytical solutions to improve data reliability and support decision-making. My work combines strong data engineering foundations with machine learning techniques to generate interpretable and actionable insights.
 
 I am particularly interested in predictive modelling, risk identification, and applying data science to real-world operational and healthcare challenges.
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/chibuike-orji-oko/) & [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](orjichibyk@gmail.com) chibuikelawrence44@gmail.com
+- :mailbox:How to reach me: (https://www.linkedin.com/in/chibuike-orji-oko/) & [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](orjichibyk@gmail.com) chibuikelawrence44@gmail.com
 </h1>
 
 <h1>
